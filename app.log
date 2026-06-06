@@ -1,0 +1,53 @@
+2026-05-26 22:26:19,948 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-26 22:26:19,948 INFO [33mPress CTRL+C to quit[0m
+2026-05-26 22:26:39,331 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-26 22:26:39,331 INFO [33mPress CTRL+C to quit[0m
+2026-05-26 22:27:00,425 INFO Sensor created: Temp9
+2026-05-26 22:27:00,426 INFO 127.0.0.1 - - [26/May/2026 22:27:00] "[35m[1mPOST /sensor/ HTTP/1.1[0m" 201 -
+2026-05-26 22:32:45,306 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-26 22:32:45,317 INFO [33mPress CTRL+C to quit[0m
+2026-05-26 22:32:55,272 INFO 127.0.0.1 - - [26/May/2026 22:32:55] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:33:21,360 INFO 127.0.0.1 - - [26/May/2026 22:33:21] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:33:23,248 INFO 127.0.0.1 - - [26/May/2026 22:33:23] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:33:23,842 INFO 127.0.0.1 - - [26/May/2026 22:33:23] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:33:24,338 INFO 127.0.0.1 - - [26/May/2026 22:33:24] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:33:24,792 INFO 127.0.0.1 - - [26/May/2026 22:33:24] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:33:25,241 INFO 127.0.0.1 - - [26/May/2026 22:33:25] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:34:08,903 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-26 22:34:08,903 INFO [33mPress CTRL+C to quit[0m
+2026-05-26 22:34:13,239 INFO 127.0.0.1 - - [26/May/2026 22:34:13] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:34:15,510 INFO 127.0.0.1 - - [26/May/2026 22:34:15] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:34:16,259 INFO 127.0.0.1 - - [26/May/2026 22:34:16] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:34:20,933 INFO 127.0.0.1 - - [26/May/2026 22:34:20] "GET /sensor/alarm HTTP/1.1" 200 -
+2026-05-26 22:34:22,950 INFO 127.0.0.1 - - [26/May/2026 22:34:22] "GET /sensor/alarm HTTP/1.1" 200 -
+2026-05-26 22:34:23,635 INFO 127.0.0.1 - - [26/May/2026 22:34:23] "GET /sensor/alarm HTTP/1.1" 200 -
+2026-05-26 22:34:24,323 INFO 127.0.0.1 - - [26/May/2026 22:34:24] "GET /sensor/alarm HTTP/1.1" 200 -
+2026-05-26 22:34:28,495 INFO 127.0.0.1 - - [26/May/2026 22:34:28] "GET /sensor/alarm HTTP/1.1" 200 -
+2026-05-26 22:34:29,172 INFO 127.0.0.1 - - [26/May/2026 22:34:29] "GET /sensor/alarm HTTP/1.1" 200 -
+2026-05-26 22:34:29,795 INFO 127.0.0.1 - - [26/May/2026 22:34:29] "GET /sensor/alarm HTTP/1.1" 200 -
+2026-05-26 22:34:30,733 INFO 127.0.0.1 - - [26/May/2026 22:34:30] "GET /sensor/alarm HTTP/1.1" 200 -
+2026-05-26 22:34:50,548 INFO 127.0.0.1 - - [26/May/2026 22:34:50] "GET /system/health HTTP/1.1" 200 -
+2026-05-26 22:34:57,609 INFO 127.0.0.1 - - [26/May/2026 22:34:57] "GET /system/stats HTTP/1.1" 200 -
+2026-05-26 22:35:24,862 INFO Sensor created: Temp1
+2026-05-26 22:35:24,863 INFO 127.0.0.1 - - [26/May/2026 22:35:24] "[35m[1mPOST /sensor/ HTTP/1.1[0m" 201 -
+2026-05-26 22:35:33,253 INFO Sensor created: Temp2
+2026-05-26 22:35:33,254 INFO 127.0.0.1 - - [26/May/2026 22:35:33] "[35m[1mPOST /sensor/ HTTP/1.1[0m" 201 -
+2026-05-26 22:35:40,278 INFO 127.0.0.1 - - [26/May/2026 22:35:40] "[31m[1mPOST /sensor/ HTTP/1.1[0m" 400 -
+2026-05-26 22:35:51,675 INFO 127.0.0.1 - - [26/May/2026 22:35:51] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:36:33,823 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-26 22:36:33,823 INFO [33mPress CTRL+C to quit[0m
+2026-05-26 22:36:37,004 INFO 127.0.0.1 - - [26/May/2026 22:36:37] "GET /sensor/ HTTP/1.1" 200 -
+2026-05-26 22:36:47,535 INFO 127.0.0.1 - - [26/May/2026 22:36:47] "GET /sensor/alarm HTTP/1.1" 200 -
+2026-05-26 22:36:57,256 INFO Sensor deleted: Temp7
+2026-05-26 22:36:57,256 INFO 127.0.0.1 - - [26/May/2026 22:36:57] "[31m[1mDELETE /sensor/Temp7 HTTP/1.1[0m" 400 -
+2026-05-26 22:37:05,076 INFO 127.0.0.1 - - [26/May/2026 22:37:05] "GET /system/stats HTTP/1.1" 200 -
+2026-05-28 23:46:54,421 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.20:5000
+2026-05-28 23:46:54,422 INFO [33mPress CTRL+C to quit[0m
